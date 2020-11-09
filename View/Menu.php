@@ -1,5 +1,5 @@
 <?php
 
-echo "<a href='login.html' class='list-group-item list-group-item-action bg-light'>login.html</a>";
+echo "<a href='home.php' class='list-group-item list-group-item-action bg-light'>Home</a>";
 
 ?>
